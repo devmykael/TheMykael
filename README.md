@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Maycon. I'm a Full Stack Developer at Magna Sistemas and my main programming language is Java. ☕
+My name is Maycon. I'm a Java Developer Analyst and my main goal is to dive deeply into IT knowledge, learning the basic concepts, and sharing it as much as I can. ☕
 
 ### Connect with me:
 
